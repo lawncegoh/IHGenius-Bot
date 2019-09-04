@@ -1,0 +1,22 @@
+{
+  "name": "ihgenius",
+  "version": "1.0.0",
+  "description": "IHG bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawncegoh/IHGenius-Bot.git"
+  },
+  "author": "Lawnce & Jess",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lawncegoh/IHGenius-Bot/issues"
+  },
+  "homepage": "https://github.com/lawncegoh/IHGenius-Bot#readme",
+  "dependencies": {
+    "firebase": "^6.5.0"
+  }
+}
